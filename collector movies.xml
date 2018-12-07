@@ -1,0 +1,181 @@
+<dir>
+      <title>TMDB Upcoming</title>
+      <tmdb>movie/upcoming</tmdb>
+      <summary>Shows Trailers For Upcoming Movies</summary>
+</dir>
+
+<dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+  
+<dir>
+<title>Movie Years</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/tmdbyear2.xml</link>
+</dir>
+ 
+<dir>
+        <title>action thriller movies 2017</title>
+        <tmdb>list/63866</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+
+<dir>
+        <title>New Movies</title>
+        <tmdb>list/95828</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+  <title>Dc/Marval Movies</title>
+  <link>https://raw.githubusercontent.com/timeless69/power/master/Dc%20%26%20Marval.xml</link>
+  <thumbnail>http://wfiles.brothersoft.com/3/3d-robot_193495-1600x900.jpg</thumbnail>
+ </dir>
+  
+<dir>
+   <title>Mythology</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/t%20mythology.xml</link>
+</dir>
+  
+<dir>
+   <title>Fighing </title>
+   <link>https://raw.githubusercontent.com/jay6912/trap/master/t%20fight.xml</link>
+</dir>
+  <dir>
+   <title>Beast</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/t%20beast.xml</link>
+</dir>
+  
+<dir>
+   <title>Sports Movies</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/t%20sports.xml</link>
+</dir>
+  
+<dir>
+   <title>Criminal</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/criminal.xml</link>
+</dir>
+  
+<dir>
+   <title>Urban</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/Urban.xml</link>
+</dir>
+   
+<dir>
+   <title>Her Place</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/Her%20Place.xml</link>
+</dir>
+    
+<dir>
+   <title>action pack</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/76.xml</link>
+</dir>
+     
+<dir>
+   <title>Actors List</title>
+   <link>https://raw.githubusercontent.com/doomfist2/eod/master/actors%20list.xml</link>
+</dir>
+
+<dir>
+        <title>Assassin</title>
+        <tmdb>list/63741</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+
+<dir>
+        <title>Dragon Ball</title>
+        <tmdb>list/78499</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+
+<dir>
+        <title>Kids</title>
+        <tmdb>list/65224</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+
+<dir>
+        <title>special forces</title>
+        <tmdb>list/64708</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+ <dir>
+<title>EOD Gangsta</title>
+<tmdb>list/51623</tmdb>
+</dir>
+ 
+<dir>
+        <title>Hood</title>
+        <tmdb>list/50624</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>B action</title>
+        <tmdb>list/47747</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+
+<dir>
+        <title>Drama/Action/Thriller</title>
+        <tmdb>list/51603</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+
+<dir>
+        <title>suspense</title>
+        <tmdb>list/63312</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>hostage and kidnap</title>
+        <tmdb>list/63739</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>disaster</title>
+        <tmdb>list/63722</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>Conspiracy</title>
+        <tmdb>list/64264</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir> 
+<dir>
+        <title>President Movies</title>
+        <tmdb>list/64267</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+<dir>
+        <title>Racing Movies</title>
+        <tmdb>list/https://www.themoviedb.org/list/63095</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <title>my Movies</title>
+        <tmdb>list/80413</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <title>Tw Movies</title>
+        <tmdb>list/80137</tmdb>
+        <thumbnail></thumbnail>
+        <fanart></fanart>
+</dir>
