@@ -35,7 +35,7 @@
   
 <dir>
    <title>Mythology</title>
-   <link>https://raw.githubusercontent.com/doomfist2/eod/master/t%20mythology.xml</link>
+   <link>https://raw.githubusercontent.com/jay6912/trap/master/t%20mythology.xml</link>
 </dir>
   
 <dir>
@@ -44,7 +44,7 @@
 </dir>
   <dir>
    <title>Beast</title>
-   <link>https://raw.githubusercontent.com/doomfist2/eod/master/t%20beast.xml</link>
+   <link>https://raw.githubusercontent.com/jay6912/trap/master/t%20beast.xml</link>
 </dir>
   
 <dir>
@@ -54,27 +54,27 @@
   
 <dir>
    <title>Criminal</title>
-   <link>https://raw.githubusercontent.com/doomfist2/eod/master/criminal.xml</link>
+   <link>https://raw.githubusercontent.com/jay6912/trap/master/criminal.xml</link>
 </dir>
   
 <dir>
    <title>Urban</title>
-   <link>https://raw.githubusercontent.com/doomfist2/eod/master/Urban.xml</link>
+   <link>https://raw.githubusercontent.com/jay6912/trap/master/Urban.xml</link>
 </dir>
    
 <dir>
    <title>Her Place</title>
-   <link>https://raw.githubusercontent.com/doomfist2/eod/master/Her%20Place.xml</link>
+   <link>https://raw.githubusercontent.com/jay6912/trap/master/Her%20Place.xml</link>
 </dir>
     
 <dir>
-   <title>action pack</title>
-   <link>https://raw.githubusercontent.com/doomfist2/eod/master/76.xml</link>
+   <title>Action pack</title>
+   <link>https://raw.githubusercontent.com/jay6912/trap/master/76.xml</link>
 </dir>
      
 <dir>
    <title>Actors List</title>
-   <link>https://raw.githubusercontent.com/doomfist2/eod/master/actors%20list.xml</link>
+   <link>https://raw.githubusercontent.com/jay6912/trap/master/actors%20list.xml</link>
 </dir>
 
 <dir>
@@ -99,13 +99,13 @@
 </dir> 
 
 <dir>
-        <title>special forces</title>
+        <title>Special forces</title>
         <tmdb>list/64708</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
  <dir>
-<title>EOD Gangsta</title>
+<title> Gangsta</title>
 <tmdb>list/51623</tmdb>
 </dir>
  
@@ -130,19 +130,19 @@
 </dir> 
 
 <dir>
-        <title>suspense</title>
+        <title>Suspense</title>
         <tmdb>list/63312</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
 <dir>
-        <title>hostage and kidnap</title>
+        <title>Hostage and kidnap</title>
         <tmdb>list/63739</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
 </dir> 
 <dir>
-        <title>disaster</title>
+        <title>Disaster</title>
         <tmdb>list/63722</tmdb>
         <thumbnail></thumbnail>
         <fanart></fanart>
